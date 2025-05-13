@@ -4,3 +4,5 @@ pandas
 numpy
 lime
 joblib
+plotly
+matplotlib
